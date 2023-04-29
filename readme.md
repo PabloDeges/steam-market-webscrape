@@ -3,4 +3,6 @@ Developed to fetch csgo items, but feel free to fork and modify the code to acce
 > pip install bs4
 
 > python3 webscrape.py
+
+ 
 > python3 create_dict.py
